@@ -1,7 +1,6 @@
 #CLI PERSONAL LIBRARY MANAGER BY ABEERA KHALID
 
 import json #JSON (JavaScript Object Notation) is a subset of JavaScript syntax. 
-
 class BookCollection:
     """A class designed to manage a library of books, enabling users to store and organize their reading collection."""
 

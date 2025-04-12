@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Guidance of Wisdom",
+        "author": "Amna Fareed",
+        "year": "2009",
+        "genre": "Islamic history",
+        "read": true
+    },
+    {
+        "title": "7th days of clues",
+        "author": "Sara Ali",
+        "year": "2020",
+        "genre": "Mystery",
+        "read": false
+    },
+    {
+        "title": "The illuminated path",
+        "author": "Abeera Salman ",
+        "year": "2024",
+        "genre": "history",
+        "read": true
+    }
+]
